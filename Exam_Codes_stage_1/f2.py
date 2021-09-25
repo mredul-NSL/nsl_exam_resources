@@ -39,7 +39,7 @@ def preprocess():
     
         
 
-y = np.array(y)
+
     
 def train_model():
     
